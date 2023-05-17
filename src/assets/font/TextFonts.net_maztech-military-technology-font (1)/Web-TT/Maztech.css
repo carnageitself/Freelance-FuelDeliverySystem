@@ -1,0 +1,11 @@
+/* Webfont: Maztech-Regular */@font-face {
+    font-family: 'Maztech';
+    src: url('Maztech.eot'); /* IE9 Compat Modes */
+    src: url('Maztech.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('Maztech.woff') format('woff'), /* Modern Browsers */
+         url('Maztech.ttf') format('truetype'); /* Safari, Android, iOS */
+             font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
